@@ -1,0 +1,21 @@
+# 初始化環境
+
+```bash
+# mac
+source .venv/bin/activate
+
+# windows
+.venv\Scripts\activate
+```
+
+# 安裝
+
+```bash
+pip install -r requirements.txt
+```
+
+# 執行
+
+```bash
+make dev
+```
